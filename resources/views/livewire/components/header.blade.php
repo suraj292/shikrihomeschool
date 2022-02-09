@@ -5,20 +5,20 @@
                 <div class="wrap-content-header">
                     <div class="header-logo">
                         <a href="{{ route('home') }}" class="logo">
-                            <img src="wp-content/uploads/sites/6/2019/02/logo-03.png" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="sticky-logo logo">
-                            <img src="wp-content/uploads/sites/6/2019/02/logo-03.png" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="retina-logo logo">
-                            <img src="wp-content/uploads/sites/6/2019/02/logo-03.png" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a> </div>
                     <nav class="main-navigation">
                         <ul id="primary-menu" class="menu-lists">
                             <li id="menu-item-59"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-18 menu-item-has-children menu-item-59 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
                                 <a href="{{ route('home') }}" class="tc-menu-inner"><span
-                                        class='tc-icon fa fa-home'></span>Home22</a>
+                                        class='tc-icon fa fa-home'></span>Home</a>
                             </li>
                             <li id="menu-item-93"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
