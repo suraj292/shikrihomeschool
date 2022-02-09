@@ -5,13 +5,13 @@
                 <div class="wrap-content-header">
                     <div class="header-logo">
                         <a href="{{ route('home') }}" class="logo">
-                            <img src="{{ asset('public/wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="sticky-logo logo">
-                            <img src="{{ asset('public/wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="retina-logo logo">
-                            <img src="{{ asset('public/wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
                         </a> </div>
                     <nav class="main-navigation">
                         <ul id="primary-menu" class="menu-lists">
