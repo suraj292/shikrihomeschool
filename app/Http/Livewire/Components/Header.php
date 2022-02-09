@@ -14,6 +14,6 @@ class Header extends Component
 
     public function mount()
     {
-        
+
     }
 }
