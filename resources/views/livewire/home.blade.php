@@ -523,7 +523,7 @@
          data-vc-full-width-init="false"
          class="vc_row wpb_row vc_row-fluid vc_custom_1552533506711 vc_row-has-fill">
         <div
-            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 bp-background-size-auto">
+            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 bp-background-size-auto">
             <div class="vc_column-inner">
                 <div class="wpb_wrapper">
                     <div
@@ -548,7 +548,7 @@
             </div>
         </div>
         <div
-            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 bp-background-size-auto">
+            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 bp-background-size-auto">
             <div class="vc_column-inner">
                 <div class="wpb_wrapper">
                     <div
@@ -573,32 +573,7 @@
             </div>
         </div>
         <div
-            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 bp-background-size-auto">
-            <div class="vc_column-inner">
-                <div class="wpb_wrapper">
-                    <div
-                        class="bp-element bp-element-icon-box  normal   kindergarten-layout-5  icon-default text-center style-1 layout-6-default ">
-                        <div class="icon-box">
-                            <a href="#" class="icon-image"
-                               style="margin:0 auto 22px auto; background-color:#43cd66; ">
-                                <img width="42" height="42"
-                                     src="wp-content/uploads/sites/6/2019/02/icon-box-13.png"
-                                     class="attachment-full size-full" alt="" loading="lazy" /> </a>
-                            <div class="content">
-                                <h3 class="title" style="margin:0 0 4px; ">
-                                    <a href="#" data-hover="">STRATEGI LOCATION</a>
-                                </h3>
-                                <div class="description" style="line-height: 1.5;">
-                                    We are situated in Hanoi with a half acer of private bulding with morden
-                                    aminity &amp; security guard. </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div
-            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 bp-background-size-auto">
+            class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 bp-background-size-auto">
             <div class="vc_column-inner">
                 <div class="wpb_wrapper">
                     <div
