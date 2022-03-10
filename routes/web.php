@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', App\Http\Livewire\Home::class)->name('home');
 Route::get('about-us', App\Http\Livewire\AboutUs::class)->name('about');
 Route::get('contact-us', App\Http\Livewire\ContectUs::class)->name('contact');
+
+Route::get('admin', \App\Http\Livewire\Admin\Login::class)->middleware('admin')->name('admin');
+Route::group(['prefix'=>'admin', 'as'=>'admin.', 'middleware'=>['R_admin']], function (){
+    Route::get('dashboard', \App\Http\Livewire\Admin\Home::class)->name('dashboard');
+});
