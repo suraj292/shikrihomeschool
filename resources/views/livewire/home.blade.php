@@ -494,9 +494,9 @@
                                                     disableFocusListener: false,
                                                 }
                                             });
-                                        }; /* END OF revapi call */
+                                        } /* END OF revapi call */
 
-                                    }; /* END OF ON LOAD FUNCTION */
+                                    } /* END OF ON LOAD FUNCTION */
                                 }()); /* END OF WRAPPING FUNCTION */
                             </script>
                             <script>
@@ -539,8 +539,8 @@
                                     <a href="#" data-hover="">ACTIVE LEARNING</a>
                                 </h3>
                                 <div class="description" style="color:#666666; line-height: 1.5;">
-                                    We provide year-round full and parttime education in the Boston Metro
-                                    Area for infants </div>
+                                    "Are you ready to become your child's trainer" We provide educational kits and books for the growth of child at your home with full online teaching support and training.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -564,8 +564,8 @@
                                     <a href="#" data-hover="">EXPERT TEACHERS</a>
                                 </h3>
                                 <div class="description" style="line-height: 1.5;">
-                                    Teachers plan an curriculum is engaging, challenging and directed toward
-                                    learning outcomes. </div>
+                                    We have a team of experts including teacher trainers and doctor consultants. Teaching plan an curriculum is engaging, challenging and directed toward learning outcomes.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -589,8 +589,8 @@
                                     <a href="#" data-hover="">FULL DAY PROGRAMS</a>
                                 </h3>
                                 <div class="description" style="line-height: 1.5;">
-                                    Full Day Program meets Monday through Friday. Operating hours are from
-                                    7am to 6pm. </div>
+                                    Full Day Program meets Monday through Friday. Operating hours are from 10am to 6pm.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -628,28 +628,34 @@
                     <div
                         class="bp-element bp-element-heading vc_custom_1553497925783 align-left kindergarten-layout-3  ">
                         <h3 class="title" style="text-transform:none; ">
-                            About Kindergarten </h3>
+                            About ShiKri </h3>
                         <div class="line" style="margin:-6px 0 16px 0; ">
 										<span class="icon-line">
 											<img src="wp-content/uploads/sites/6/2019/02/icon-line-01.png" width="29"
                                                  height="17" alt="">
 										</span>
                         </div>
-                        <span class="sub-title" style="line-height:1.5; text-transform:none; ">All our
-										preschools have all-weather indoor play areas, an art studio or an atelier,
-										technology corners and much else; and most have outdoor play spaces and even
-										swimming pools specifically for the younger ones. Our programs ensure that
-										children in our care everywhere have access to the highest quality of
-										international.</span>
+                        <span class="sub-title" style="line-height:1.5; text-transform:none; ">
+                            Our Educational kits and programs are highly focused on overall growth of child.
+                            We not only focus on curriculum but also we prefer focusing on physical and mental well-being of child and parents both.
+                        </span>
                     </div>
                     <div class="wpb_text_column wpb_content_element  vc_custom_1552474367310">
                         <div class="wpb_wrapper">
                             <div class="bl-list kindergarten-layout-2">
                                 <ul class="list">
-                                    <li class="list-item">Individual attention in a small-class setting</li>
-                                    <li class="list-item">Educational field trips and school presentations
+                                    <li class="list-item">
+                                        Individual attention in a small-class setting
                                     </li>
-                                    <li class="list-item">Positive learning environment for your child</li>
+                                    <li class="list-item">
+                                        Regular doctor consultation
+                                    </li>
+                                    <li class="list-item">
+                                        home learning kits
+                                    </li>
+                                    <li class="list-item">
+                                        24x7 parents support
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -720,9 +726,8 @@
                                             <div class="class-text">
                                                 <div class="border-top"></div>
                                                 <h4 class="title">
-                                                    <a
-                                                        href="courses/painting-class-for-young-children/index.html">
-                                                        Painting Class for Young Children </a>
+                                                    <a href="courses/painting-class-for-young-children/index.html">
+                                                        PLAYWAY </a>
                                                 </h4>
                                                 <div class="description">
                                                     Lorem Ipsum is simply dummy text of the printing and
@@ -757,7 +762,7 @@
                                                 <h4 class="title">
                                                     <a
                                                         href="courses/dance-class-for-young-children/index.html">
-                                                        Dance Class for Young Children </a>
+                                                        NURSERY </a>
                                                 </h4>
                                                 <div class="description">
                                                     Lorem Ipsum is simply dummy text of the printing and
@@ -792,7 +797,7 @@
                                                 <div class="border-top"></div>
                                                 <h4 class="title">
                                                     <a href="courses/music-class-for-toddlers/index.html">
-                                                        Music Class for Toddlers </a>
+                                                        KG </a>
                                                 </h4>
                                                 <div class="description">
                                                     Lorem Ipsum is simply dummy text of the printing and
@@ -1105,10 +1110,9 @@
                                                  height="17" alt="">
 										</span>
                         </div>
-                        <span class="sub-title"
-                              style="max-width:700px; text-transform:none; margin:0px auto; ">We have strict
-										criteria when selecting our teachers; they must be native English speakers with
-										a higher degrees and most importantly.</span>
+                        <span class="sub-title" style="max-width:700px; text-transform:none; margin:0px auto; ">
+                            We are providing parents to closely monitor the child's development as well as WE "ShiKri Management" is focusing on each child closely and providing customised curriculum as per children learning skills and ability.
+                        </span>
                     </div>
                 </div>
             </div>
