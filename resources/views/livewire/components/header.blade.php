@@ -5,13 +5,13 @@
                 <div class="wrap-content-header">
                     <div class="header-logo">
                         <a href="{{ route('home') }}" class="logo">
-                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/images/logo.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="sticky-logo logo">
-                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/images/logo.png') }}" alt="IMG">
                         </a>
                         <a href="{{ route('home') }}" class="retina-logo logo">
-                            <img src="{{ asset('wp-content/uploads/sites/6/2019/02/logo-03.png') }}" alt="IMG">
+                            <img src="{{ asset('wp-content/images/logo.png') }}" alt="IMG">
                         </a> </div>
                     <nav class="main-navigation">
                         <ul id="primary-menu" class="menu-lists">
@@ -23,16 +23,25 @@
                             <li id="menu-item-93"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
                                 <a href="our-teacher/index.html" class="tc-menu-inner"><span
-                                        class='tc-icon fa fa-graduation-cap'></span>Admission</a>
+                                        class='tc-icon fa fa-graduation-cap'></span>Our Services</a>
                                 <ul class="sub-menu">
                                     <li id="menu-item-1051"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
                                         <a href="blog/index.html" class="tc-menu-inner tc-megamenu-title">Blog
-                                            Grid</a></li>
+                                            Grid</a>
+                                    </li>
                                     <li id="menu-item-1052"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1052 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
                                         <a href="../blog/index.html" class="tc-menu-inner tc-megamenu-title">Blog
-                                            List</a></li>
+                                            List</a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1051"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
+                                                <a href="blog/index.html" class="tc-menu-inner tc-megamenu-title">Blog
+                                                    Grid</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-94"

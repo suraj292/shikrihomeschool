@@ -16,7 +16,7 @@
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img
                                                             width="99" height="87"
-                                                            src="wp-content/uploads/sites/6/2019/02/logo-03.png"
+                                                            src="{{ asset('wp-content/images/logo.png') }}"
                                                             class="vc_single_image-img attachment-full" alt=""
                                                             loading="lazy" /></div>
                                                 </figure>
